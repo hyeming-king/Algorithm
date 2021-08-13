@@ -4,4 +4,7 @@ daily habit!
 
 https://coo-coo2021.tistory.com
 
-1. 백준코딩 - 단계별 풀어보기 python 7/4~
+1. Algorithm_python
+백준코딩 - 단계별 풀어보기 python 7/4~
+
+
